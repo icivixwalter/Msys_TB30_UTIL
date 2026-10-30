@@ -1,0 +1,15 @@
+Log Importazione QUERY - 19/08/2026 20:11:25
+------------------------------------------------
+
+NRO: 1 QUERY importata: Tree_Qry00_{@=============================================@}_Qry
+NRO: 2 QUERY importata: Tree_Qry01_01_}------------------------------------------@SELECT
+NRO: 3 QUERY importata: Tree_Qry01_CLASSI_STAMPA_DI_CONTROLLO_CANCELLA
+NRO: 4 QUERY importata: Tree_Tb01_Qry01_N01_ELENCO
+NRO: 5 QUERY importata: Tree_Tb01_Qry01_N01_ELENCO_TMP
+NRO: 6 QUERY importata: Tree_Tb01_Qry01_n01_PADRI+figli
+NRO: 7 QUERY importata: Tree_Tb01_Qry01_n01_PADRI+figli_Accoda_Tmp
+NRO: 8 QUERY importata: TreeView_Tb01Qry01_01_RADICE
+NRO: 9 QUERY importata: TreeView_Tb01Qry02_01_TRONCO
+NRO: 10 QUERY importata: TreeView_Tb01Qry03_01_RAMI
+NRO: 11 QUERY importata: TreeView_Tb01Qry04_01_FOGLIE
+Importazione completata con 11 Queries importate.

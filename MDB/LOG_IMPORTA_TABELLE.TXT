@@ -1,0 +1,4 @@
+Log Importazione TABELLE - 14/08/2026 17:49:00
+------------------------------------------------
+
+Errore: il file del database di origine non esiste.
