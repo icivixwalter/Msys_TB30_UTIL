@@ -1,8 +1,8 @@
 //ATTENZIONE AGLI SPAZI DI FINE RIGA non ci devono essere altrimenti non salva
-//questo è il secondo esempio con path e file liberi senza .\ e sembra che funziona
+//questo è il secondo esempio con path e file liberi senza .\\ e sembra che funziona
 //............................................................................//
-MDB\
-OBJECT\
+MDB\\
+OBJECT\\
 AA________________________________________________________________________AA.txt
 git_COMMIT.BAT
 git_OpenGitHub.bat
